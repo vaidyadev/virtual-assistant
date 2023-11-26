@@ -1,0 +1,60 @@
+DO                                          command
+greet                                       how are you?,bye etc
+search on wikipedia                         who the heck is
+open apps                                   open <app name>
+close apps                                  close <app name>
+alarm                                       set alarm   
+shutdown                                    shutdown
+restart                                     restart
+sleep the system                            sleep the system 
+opening any website                         launch<website name>Or website(for CLI)
+automatic youtube                           auto youtube
+automatic chrome                            auto chrome
+current location(city)                      where i am
+search anything on youtube                  youtube search
+search anything on google                   google search
+download instagram profile                  insta profile
+read any pdf                                read pdf
+doing simple calculation                    do some calculation
+auto login facebook                         login my facebook(update login id password at ac.txt)
+brightness controling                       brightness
+showing current time                        time
+playing any song on youtube                 play
+playing any download song                   start music
+sending whatsapp                            send whatsapp
+telling your IP                             tell my ip
+take screenshot                             take screenshot
+telling joke                                joke
+open your  pc camera                        open camera
+reapting your word                          repeat my word
+tweet anything on twitter automatically     tweet(update login id password at account_info.txt)
+telling temperature of city                 temperature
+battery power of pc                         battery
+checking internet speed                     internet speed(you can check operator name by running speedtest.py)
+volume up                                   volume up                                   
+volume down                                 volume down
+volume mute                                 volume mute
+text message on number                      message<verify receiver and sender number with twillo>
+voice call on  number                       call<verify receiver and sender number with twillo>
+open phone camera                           open phone camera<download ipwebcam app on your phone from google playstore and type IP>
+hide,display file of any folder of your pc  hide all file
+remembering any thing                       remember that
+recall remembering                          what do you remember
+switching window                            switch the window
+telling news                                tell me news
+search receipe on wikipedia                 how to<search>
+sending mail with or without attechment     send my mail
+translate anything                          translator
+download youtube video                      video downloader
+dictionary (including meaning,synonyms 
+and antonyms)                               dictionary then <meaning,synonyms and antonyms> 
+face recognition                            ----
+hotword                                     wakeup [and] goodbye
+gui                                             ----
+draw sketches(doremon)(radha krishna)(only 1
+time)                                        draw 
+2048 game                                    game
+change the voice of assistant                change the voice     
+geeting original voice                       get your original voice
+geeting number of voice in system            how many voices i have  
+*******************************Made by dev vaidya****************************
