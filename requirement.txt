@@ -1,0 +1,35 @@
+pip install pyqt5
+pip install pillow
+pip install smtplib
+pip install pypdf2
+pip instsll selenium
+pip install aydictionary
+pip install instaloader
+pip install pyttsx3
+pip install speech recognition
+pip install pyautogui
+pip install bs4
+pip install opencv
+pip install pytube
+pip install numpy
+pip install socket
+pip install googletrans
+pip install playsound
+pip install pyjoke
+pip install pywhatkit
+pip install webbrowser
+pip install wikipedia
+
+go to CMD and type above command 
+
+
+
+Run va.py file
+
+
+
+
+
+
+
+
